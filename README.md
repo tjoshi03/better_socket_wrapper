@@ -17,3 +17,6 @@ you can check out the original [plugin here](https://github.com/ZClee128/better_
 >import 'package:better_socket_wrapper/better_socket_wrapper.dart';
 
 
+chack your example [here](https://github.com/tjoshi03/better_socket_wrapper/tree/dev/example)
+
+
