@@ -1,15 +1,19 @@
 # better_socket_wrapper
 
-A new Flutter project.
 
-## Getting Started
+better_socket_extention
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+its a fork from better socket flutter project with update to some code.
+
+you can check out the original [plugin here](https://github.com/ZClee128/better_socket)
+
+
+# Add better_socket_wrapper to your pubspec.yaml to use it.
+
+>better_socket_wrapper: ^0.0.1
+
+
+>import 'package:better_socket_wrapper/better_socket_wrapper.dart';
+
 
