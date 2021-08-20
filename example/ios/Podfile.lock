@@ -1,0 +1,29 @@
+PODS:
+  - better_socket_wrapper (0.0.1):
+    - Flutter
+    - SocketRocket
+  - Flutter (1.0.0)
+  - SocketRocket (0.6.0)
+
+DEPENDENCIES:
+  - better_socket_wrapper (from `.symlinks/plugins/better_socket_wrapper/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - SocketRocket
+
+EXTERNAL SOURCES:
+  better_socket_wrapper:
+    :path: ".symlinks/plugins/better_socket_wrapper/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  better_socket_wrapper: c1d0408f76c7b44cb826696fda3c7f7c0b0ab3fa
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  SocketRocket: fccef3f9c5cedea1353a9ef6ada904fde10d6608
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
