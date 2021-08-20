@@ -35,6 +35,7 @@ class BetterSocketWrapper {
     _channel.invokeMethod('sendMsg', <String, String>{'msg': msg});
   }
 
+
   static sendByteMsg(Uint8List msg) {
     _channel.invokeMethod('sendByteMsg', <String, Uint8List>{'msg': msg});
   }
